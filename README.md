@@ -1,5 +1,4 @@
-Below is a complete, clean, academic-ready README.md that you can copy-paste directly into your GitHub repository.
-It is written to be faculty-safe, plagiarism-resistant, and technically accurate, matching exactly what you implemented.
+
 
 Text Generation with GPT-2 (Fine-Tuned on Generative AI Content)
 📌 Project Overview
